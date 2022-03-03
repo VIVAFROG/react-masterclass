@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react-masterclass/static/js/main.fd904969.chunk.js",
-    "main.js.map": "/react-masterclass/static/js/main.fd904969.chunk.js.map",
+    "main.js": "/react-masterclass/static/js/main.efb3a8f7.chunk.js",
+    "main.js.map": "/react-masterclass/static/js/main.efb3a8f7.chunk.js.map",
     "runtime-main.js": "/react-masterclass/static/js/runtime-main.a15746cd.js",
     "runtime-main.js.map": "/react-masterclass/static/js/runtime-main.a15746cd.js.map",
     "static/js/2.c47810c5.chunk.js": "/react-masterclass/static/js/2.c47810c5.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.a15746cd.js",
     "static/js/2.c47810c5.chunk.js",
-    "static/js/main.fd904969.chunk.js"
+    "static/js/main.efb3a8f7.chunk.js"
   ]
 }
